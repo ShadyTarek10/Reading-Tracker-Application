@@ -1,6 +1,8 @@
 # reader_tracker
 
 A new Flutter project used to track reading as the user can search books and save them as well as favorite them.
+- Google api used to  search books
+- sqflite databse used to save books on the device
 
 ## Getting Started
 
