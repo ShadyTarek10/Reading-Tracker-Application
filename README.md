@@ -1,6 +1,6 @@
 # reader_tracker
 
-A new Flutter project.
+A new Flutter project used to track reading as the user can search books and save them as well as favorite them.
 
 ## Getting Started
 
